@@ -231,9 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/game-side-mobile](https://github.com/yourusername/game-side-mobile)
+Project Link: [https://github.com/Taxtander/game-side-mobile](https://github.com/yourusername/game-side-mobile)
 
 ---
 
