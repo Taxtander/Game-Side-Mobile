@@ -66,7 +66,7 @@ Game Side Mobile is a 2D platformer designed with a focus on smooth user experie
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/game-side-mobile.git
+git clone https://github.com/Taxtander/game-side-mobile.git
 cd game-side-mobile
 ```
 
