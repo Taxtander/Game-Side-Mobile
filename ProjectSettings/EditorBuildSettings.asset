@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Menu/WellcomeMenu.unity
+    guid: 619252c07bb7c6b43aaaa7963ba5b8e8
+  - enabled: 1
+    path: Assets/Scenes/Starter Levels/Levels/Lv1.unity
+    guid: 8bc5e0f889edc4e4282dd3c058c56cc6
+  - enabled: 1
+    path: Assets/Scenes/Starter Levels/Levels/Lv2.unity
+    guid: 68152d45dd4c891438ffd7b16248cb68
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
